@@ -1,0 +1,11 @@
+{
+  "name": "sketchfab-viewer",
+  "version": "1.0.1",
+  "description": "Sketchfab viewer, mesh, 3d",
+  "main": [
+    "sketchfab-viewer-1.0.1.js",
+    "sketchfab-viewer.css"
+  ],
+  "ignore": [
+  ]	
+}
